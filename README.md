@@ -1,16 +1,16 @@
 # 🐍 Mastering Python: Daily Learning Journey
 
-Welcome to my daily Python learning journey! This repository is a dedicated showcase of my consistency, logic building, and hands-on practice as I master Python for Data Engineering and Data Science.
+Welcome to my daily Python learning journey! This repository documents my progress, logic building, and hands-on practice as I master Python for Data Science.
 
 ## 📅 Daily Progress Tracker
 | Day | Topic | Notebook Link | Status |
 | :--- | :--- | :--- | :--- |
 | **Day 01** | Python Foundations (Variables, ID, Memory) | [Day 01 Notebook](./Day01_Variables_and_DataTypes.ipynb) | Completed ✅ |
 | **Day 02** | Advanced Logic & Conditional Statements | [Day 02 Notebook](./Day02_Conditional_Statements_and_Logic.ipynb) | Completed ✅ |
-| **Day 03** | **Python Loops & List Iteration** | [Upcoming - Monday] | ⏳ |
-| **Day 04** | List Methods & Data Handling | [Upcoming] | ⏳ |
+| **Day 03** | Python Loops & Iterative Logic | [Day 03 Notebook](./Day03_Loops_Control_Statements_Iterative_Lo.ipynb) | Completed ✅ |
+| **Day 04** | Python Lists & Data Manipulation | [Upcoming] | ⏳ |
 
-> **Vision:** To document 100% of my coding journey with daily GitHub pushes to maintain transparency and accountability.
+> **Vision:** Documenting 100% of my coding journey with daily GitHub pushes for transparency and professional growth.
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -25,11 +25,16 @@ Welcome to my daily Python learning journey! This repository is a dedicated show
 
 ### **Day 02: Decision Structures**
 - Mastered `if-elif-else` logic and **Ternary Operators** for clean code.
-- **Project:** Created an **ATM Simulation** with multi-step validation logic.
+- **Project:** Created a basic ATM simulation with withdrawal validation.
 
-### **Day 03 (Monday Target): The Power of Loops**
-- Starting **Iteration** to automate repetitive tasks.
-- Deep dive into `for` and `while` loops with **Lists**.
+### **Day 03: The Power of Loops**
+- Automated complex tasks using `for` and `while` loops.
+- Implemented **Loop Control Statements** (`break`, `continue`) for flow management.
+- **Grand Task:** Engineered a **Secure ATM Login System** with limited attempts (3-strike rule).
+
+### **Day 04 (Next Target): Data Handling**
+- Deep dive into **Lists** and their built-in methods.
+- Using loops to process multiple data points efficiently.
 
 ## 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sami-ullah-python)
