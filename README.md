@@ -2,14 +2,15 @@
 
 Welcome to my intensive Python learning journey! This repository is a live documentation of my technical evolution, showcasing daily consistency, advanced logic building, and hands-on engineering as I transition into the world of **Data Science and Machine Learning**.
 
-## 📅 Daily Progress Tracker
+## 📊 Daily Progress Tracker
 | Day | Technical Topic | Notebook Link | Status |
 | :--- | :--- | :--- | :--- |
 | **Day 01** | Python Foundations (Memory & ID) | [View Notebook](./Day01_Variables_and_DataTypes.ipynb) | Completed ✅ |
 | **Day 02** | Advanced Logic & Conditionals | [View Notebook](./Day02_Conditional_Statements_and_Logic.ipynb) | Completed ✅ |
 | **Day 03** | Iterative Logic & Control Flow | [View Notebook](./Day03_Loops_Control_Statements_Iterative_Lo.ipynb) | Completed ✅ |
 | **Day 04** | List Mastery & Comprehensions | [View Notebook](./Day04_Lists_Slicing_and_Comprehensions.ipynb) | Completed ✅ |
-| **Day 05** | Dictionaries, Tuples & Sets | [Upcoming] | ⏳ |
+| **Day 05** | Dictionaries, Sets & Advanced Mapping | [View Notebook](./Day05_Dictionaries_Sets_and_Advanced_Compr.ipynb) | Completed ✅ |
+| **Day 06** | Functions & Modular Programming | [Upcoming] | ⏳ |
 
 > **Consistency Motto:** "One commit a day keeps the stagnation away."
 
@@ -26,7 +27,6 @@ Welcome to my intensive Python learning journey! This repository is a live docum
 ### **📅 Day 01: The Pythonic Core**
 * **Core Concepts:** Object Identity (`id()`), Dynamic Typing, and Memory Management.
 * **Key Achievement:** Mastered how Python handles variable references in memory for optimized code.
-* **Application:** Built dynamic type-casting scripts for clean data processing.
 
 ### **📅 Day 02: Decision Architecture**
 * **Core Concepts:** Nested Conditionals and **Ternary Operators**.
@@ -35,13 +35,16 @@ Welcome to my intensive Python learning journey! This repository is a live docum
 
 ### **📅 Day 03: Automation & Control Flow**
 * **Core Concepts:** `for` & `while` loops, plus **Flow Control** (`break`/`continue`).
-* **Key Achievement:** Engineered a **Secure Login System** with a 3-strike security protocol (3 wrong attempts = Account Lockout).
-* **Logic:** Automated repetitive data processing tasks to minimize manual coding.
+* **Key Achievement:** Engineered a **Secure Login System** with a 3-strike security protocol (Account Lockout logic).
 
 ### **📅 Day 04: Advanced Data Handling**
 * **Core Concepts:** Sequence Slicing, Indexing, and **List Comprehensions**.
-* **Key Achievement:** Optimized data manipulation using one-liner comprehensions for cleaner, faster execution.
-* **Operations:** Deep dive into all major list methods (`append`, `extend`, `pop`, `insert`).
+* **Key Achievement:** Optimized data manipulation using one-liners for cleaner, faster execution.
+
+### **📅 Day 05: The "Aha!" Moment - Advanced Mapping**
+* **Breakthrough:** Discovered that Comprehensions aren't just for Lists. Mastered **Set & Dictionary Comprehensions**.
+* **Performance Benchmarking:** Conducted micro-benchmarks to verify **Tuple vs List** execution speeds for 10M+ records.
+* **Logic Mapping:** Utilized `zip()` to pair complex datasets into structured dictionaries dynamically.
 
 ---
 
